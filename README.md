@@ -5,6 +5,10 @@
 This Weather App is designed to provide users with real-time weather updates and forecasts for multiple locations globally. It leverages React Native for cross-platform mobile development and the OpenWeather API for fetching weather data. The app also uses Unsplash API for fetching background images for the locations and stores the data in AsyncStorage.
 If you want to run the app on your phone, you can use Expo Go app.
 
+![home](https://github.com/user-attachments/assets/a2b745d9-46ae-4872-aca4-7eea4c31e864)
+
+![settings](https://github.com/user-attachments/assets/728f4b41-47c9-4d07-b869-b74d85e6719d)
+
 ## Setup and Installation
 
 ### Prerequisites
